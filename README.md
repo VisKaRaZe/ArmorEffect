@@ -16,7 +16,7 @@ Le plugin ArmorEffect est conçu pour améliorer l'expérience de jeu des joueur
 
 ## Installation
 
-1. Téléchargez le plugin ArmorEffect depuis [ici](https://example.com/armor_effect_plugin.zip).
+1. Téléchargez le plugin ArmorEffect depuis [ici]((https://github.com/VisKaRaZe/ArmorEffect/archive/refs/tags/pm5.zip)).
 
 2. Placez le fichier téléchargé dans le dossier des plugins de votre serveur PocketMine.
 
@@ -62,7 +62,7 @@ The ArmorEffect plugin is designed to enhance the gameplay experience for player
 
 ## Installation
 
-1. Download the ArmorEffect plugin from [here](https://example.com/armor_effect_plugin.zip).
+1. Download the ArmorEffect plugin from  [ici]((https://github.com/VisKaRaZe/ArmorEffect/archive/refs/tags/pm5.zip)).
 
 2. Place the downloaded file into the plugins folder of your PocketMine server.
 
