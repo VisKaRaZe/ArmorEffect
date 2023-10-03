@@ -1,6 +1,6 @@
 # ArmorEffect - Plugin Minecraft Pocket Edition (Pocketmine)
 
-![ArmorEffect Logo]([https://github.com/VisKaRaZe/Zelu-ArmorEffect/blob/main/image.png?raw=true])
+![ArmorEffect Logo]([https://github.com/VisKaRaZe/Zelu-ArmorEffect/blob/main/image.png])
 
 ## Introduction
 
@@ -48,7 +48,7 @@ ArmorEffect est distribué sous la licence MIT. Vous êtes libre de l'utiliser, 
 
 # ArmorEffect - Minecraft Pocket Edition Plugin (Pocketmine)
 
-![ArmorEffect Logo]([https://github.com/VisKaRaZe/Zelu-ArmorEffect/blob/main/image.png?raw=true])
+![ArmorEffect Logo]([https://github.com/VisKaRaZe/Zelu-ArmorEffect/blob/main/image.png])
 
 ## Introduction
 
