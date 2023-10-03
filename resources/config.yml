@@ -1,0 +1,23 @@
+﻿---
+golden_helmet: #golden helmet
+  effect:
+    16: #id effect
+      amplifier: 3 #0 = level(1) so 3 = level(4)
+      visible: false #particle
+golden_chestplate: #golden chestplate
+  effect:
+    12: #id effect
+      amplifier: 0 #0 = level(1) so 3 = level(4)
+      visible: false #particle
+golden_leggings: #golden leggings
+  effect:
+    10: #id effect
+      amplifier: 0 #0 = level(1) so 3 = level(4)
+      visible: false #particle
+golden_boots: #golden boots
+  effect:
+    1: #id effect
+      amplifier: 0 #0 = level(1) so 3 = level(4)
+      visible: false #particle
+
+...

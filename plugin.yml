@@ -1,0 +1,6 @@
+name: Zelu-ArmorEffect
+main: viskaraze\ArmorEffect\ArmorEffect
+api: [5.0.0]
+author: VisKa_RaZe
+version: 1.0.0
+description: Simple Zelu-ArmorEffect for a good server
