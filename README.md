@@ -1,5 +1,9 @@
 # ArmorEffect - Plugin Minecraft Pocket Edition (Pocketmine)
 
+[![](https://poggit.pmmp.io/shield.state/Zelu-ArmorEffect)](https://poggit.pmmp.io/p/Zelu-ArmorEffect)
+
+<a href="https://poggit.pmmp.io/p/Zelu-ArmorEffect"><img src="https://poggit.pmmp.io/shield.state/Zelu-ArmorEffect"></a>
+
 ## Introduction
 
 Le plugin ArmorEffect est conçu pour améliorer l'expérience de jeu des joueurs sur votre serveuren leur permettant d'obtenir des effets en portant leurs pièces d'armure. Que ce soit pour des buffs de vitesse, de résistance ou tout autre effet souhaité, ArmorEffect offre une personnalisation avancée de l'expérience de jeu.
